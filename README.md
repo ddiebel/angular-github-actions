@@ -1,6 +1,7 @@
 # AngularGithubActions
 
 [![build status](https://github.com/ddiebel/angular-github-actions/workflows/Build/badge.svg)](https://github.com/ddiebel/angular-github-actions/actions)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ddiebel_angular-github-actions&metric=alert_status)](https://sonarcloud.io/dashboard?id=ddiebel_angular-github-actions)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.5.
 
