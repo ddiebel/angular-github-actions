@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
+    "clean": "npx rimraf ./dist",
     "start": "ng serve",
     "build": "ng build",
     "build:ci": "npm run clean && npm run test && npm run build:prod",
